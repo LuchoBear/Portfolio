@@ -1,5 +1,5 @@
 # Portfolio
-Work Portfolio containing programs I have created. Included are a Notification Manager and a launcher that complies games into one place. Both porjects are still work in progress.
+Work Portfolio containing programs I have created. Included are a Notification Manager and a launcher that complies games into one place. Both projects are still work in progress.
 
 # Notification Manager
 The notification manager is a program that I created to help me keep track of things that I need to do and to remind me about them. It consists of two main parts, a notification list, and a to-do list. The program allows you to create a new notification that will be added to the list and contains things like a name, a message, a time and a date, what days it should be recurring on, and if it should remind you hourly. Once it reaches the time and date specified it opens a dialog at the bottom right of the screen with the information included in the notification. The to-do list portion is a list of tasks that you create with a name, description, date, and status of completion associated with it. Both parts have a right click menu where you can edit or remove items and the to-do list menu also allows you mark an item complete. Both parts also have multiple filters to sort through the items.
